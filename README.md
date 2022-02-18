@@ -1,3 +1,4 @@
+<marquee>This text will scroll from right to left</marquee>
 - 👋 Hi, I’m @ljoxloyd
 - 👀 I’m interested in all things UI, and somewhat in making games 
 - 🌱 I’m currently learning React with TypeScript, and want to learn Angular 
