@@ -1,9 +1,7 @@
-<marquee>This text will scroll from right to left</marquee>
-- 👋 Hi, I’m @ljoxloyd
-- 👀 I’m interested in all things UI, and somewhat in making games 
-- 🌱 I’m currently learning React with TypeScript, and want to learn Angular 
-- 💞️ I’m looking to collaborate on projects that have potential to change modern web... or games
-- 📫 How to reach me - through telegram @lexlloyd
+<details>
+  <summary> 👋 Hi </summary>
+ 👁👄👁
+</details>
 
 <!---
 ljoxloyd/ljoxloyd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
